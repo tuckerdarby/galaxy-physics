@@ -1,0 +1,7 @@
+This repository contains the entire script for the mod Titan Arena built for the SC2 engine. An older version of the map file has also been included for any SC2 fans to learn from all the work from data, coding, and terrain.
+
+My work on this project included all the code and triggering (since mods like this are composed of work in graphics, game development, etc.)
+
+The highlight of the project is the projectile physics engine that I built to replicate simple particle physics. The uploaded version only supports point/particle physics, but an update was made for spherical and cylindrical objects. This update doesn't run well in the SC2 engine due to limitations in processing power given by the engine, and therefore was never implemented into the game.
+
+For Blizzard's feature video of the mod visit: https://www.youtube.com/watch?v=2b7EQi-4BmA
